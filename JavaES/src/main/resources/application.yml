@@ -1,0 +1,9 @@
+Spring:
+  application:
+    name: CVsSearch
+
+server:
+  port: 8080
+
+logging:
+  file: /Users/trungbui/Desktop/log/cvsearch.log
